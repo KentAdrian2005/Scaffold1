@@ -2,14 +2,14 @@
 
 <head><title> Scaffold 1 </title></head>
 
-<body background="C:\Users\Nets\Downloads\week3\Mosaic_Future-Toilets_Chester-Holme_Pocessing-plant-v1_0.jpg">
+<body background="Mosaic_Future-Toilets_Chester-Holme_Pocessing-plant-v1_0.jpg">
 
 <marquee><font size= "6", color= "white", face="Times New Roman "><b><h1>Today's hope</h1></b></marquee></font>
 <marquee direction=right> <font size= "6", color= "white", face="Times New Roman"><b><h1>is our tomorrow</h1></b></marquee></font>
 <br>
 <br>
 <p align=center> 
-<img src="C:\Users\Nets\Downloads\week3\139779697_419467145962178_5924833884696207046_n.jpg"width=1000,length=450></img>
+<img src="139779697_419467145962178_5924833884696207046_n.jpg"width=1000,length=450></img>
 <br>
 <br>
 <p align=center>
